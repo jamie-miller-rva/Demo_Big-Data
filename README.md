@@ -5,6 +5,8 @@ Pet_Product reviews was selected from the Amazon's review site [Amazon Review Si
 
 ## Findings: 
 * **finding: The percentage of 5star ratings is not the same when comparing paid (vine reviews) to unpaid (not_vine reviews)**
+* percentage_5star_vine     = 38.24%
+* percentage_5star_not_vine = 54.47%
 * **There is reason to believe that the percentage of 5star ratings is not directly tied to whether the reviewer is paid or unpaid.**
 
 ## Deliverables:
