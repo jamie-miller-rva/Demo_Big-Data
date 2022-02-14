@@ -3,6 +3,10 @@
 ## Background:
 Pet_Product reviews was selected from the Amazon's review site [Amazon Review Site](https://courses.bootcampspot.com/courses/941/assignments/18906?module_item_id=344531) in order to examine the relationship between paid reviews and unpaid reviews. Paid reviews are reviews by members of the VINE program. Background on the VINE program is available at [Vine Program](https://www.amazon.com/vine/about).
 
+## Findings: 
+* **finding: The percentage of 5star ratings is not the same when comparing paid (vine reviews) to unpaid (not_vine reviews)**
+* **There is reason to believe that the percentage of 5star ratings is not directly tied to whether the reviewer is paid or unpaid.**
+
 ## Deliverables:
 * Deliverable 1: Perform ETL on Amazon Product Reviews (Pet Products)
 * Deliverable 2: Determine Bias of Vine Reviews (comparing 5-star reviews paid vs. unpaid)
