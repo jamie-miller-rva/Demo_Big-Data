@@ -1,7 +1,7 @@
 # Demo_Big-Data and the ETL Process using AWS, postgreSQL, PySpark & Jupyter 
 
 ## Background:
-Pet_Product reviews was selected from the Amazon's review site [Amazon Review Site](https://courses.bootcampspot.com/courses/941/assignments/18906?module_item_id=344531) in order to examine the relationship between paid reviews and unpaid reviews. Paid reviews are reviews by members of the VINE program. Background on the VINE program is available at [Vine Program](https://www.amazon.com/vine/about).
+Pet_Product reviews was selected from the Amazon's review site [Amazon Review Site](https://s3.amazonaws.com/amazon-reviews-pds/tsv/index.txt) in order to examine the relationship between paid reviews and unpaid reviews. Paid reviews are reviews by members of the VINE program. Background on the VINE program is available at [Vine Program](https://www.amazon.com/vine/about).
 
 ## Findings: 
 * **finding: The percentage of 5star ratings is not the same when comparing paid (vine reviews) to unpaid (not_vine reviews)**
